@@ -14,6 +14,7 @@ To set up the workspace, run:
 
 ```bash
 git submodule update --init
+rm tock/Cargo.toml
 ```
 
 ## Drivers
