@@ -5,6 +5,6 @@
 
 int main(void) {
   printf ("Hello World!\r\n");
-  dipslay ('e', LED | SOUND);
+  display ('e', LED | SOUND);
   return 0;
 }
