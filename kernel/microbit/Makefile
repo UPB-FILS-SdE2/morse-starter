@@ -2,7 +2,7 @@
 
 TOCK_ARCH=cortex-m4
 TARGET=thumbv7em-none-eabi
-PLATFORM=microbit_v2
+PLATFORM=microbit
 
 include ../../tock/boards/Makefile.common
 
